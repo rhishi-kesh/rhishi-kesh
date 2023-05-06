@@ -1,5 +1,7 @@
+[![MasterHead](https://img.freepik.com/free-vector/pair-programming-concept-illustration_114360-3941.jpg?w=740&t=st=1683389921~exp=1683390521~hmac=cbb7f8e7ad80322efd8f93b641a2e6ee87e8a1340bd85d8851856395334b4dae)
 <h1 align="center">Hi 👋, I'm Rhishi kesh</h1>
 <h3 align="center">Web Designer | PHP & Laravel Developer</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=reshikash&label=Profile%20views&color=0e75b6&style=flat" alt="reshikash" /> </p>
 
@@ -18,6 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rhishi kesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rhishi kesh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rhishi kesh bhowmik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rhishi kesh bhowmik" height="30" width="40" /></a>
 <a href="https://fb.com/rhishi kesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rhishi kesh" height="30" width="40" /></a>
 </p>
 
