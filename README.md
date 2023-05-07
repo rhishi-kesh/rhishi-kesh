@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **reshikash300@gmail.com**
 
-- ⚡ Fun fact **Why programmer don't have Girlfriend🤔**
+- ⚡ Fun fact **Why programmers don't have Girlfriend🤔**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
