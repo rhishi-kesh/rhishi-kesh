@@ -16,7 +16,7 @@
         'Skill' => [
             'Comfortable' => ['Laravel', 'PHP', 'Mysql', 'Bootstrap', 'Jquery', 'Ajax', 'Livewire', 'CSS', 'HTML'],
             'Comprehensive' => ['JS', 'Tailwind CSS'],
-            'Familiar' => ['VueJS'],
+            'Familiar' => ['VueJS', 'AlpineJS'],
             'Tools' => ['Git', 'Github', 'VSCode', 'Clickup']
         ],
     ];
