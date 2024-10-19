@@ -6,7 +6,7 @@
         'Self' => [
             'Name' => 'Rhishi Kesh Bhowmik',
             'Description' => '',
-            'Position' => 'Junior Full Stack Web Developer'
+            'Position' => 'Full Stack Web Developer'
         ],
         'Social' => [
             'Facebook' => 'https://www.facebook.com/rhishi.kesh.bhowmik',
